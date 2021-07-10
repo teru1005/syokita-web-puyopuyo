@@ -1,2 +1,0 @@
-# syokita-web-puyopuyo
-ぷよぷよやろうぜ！
